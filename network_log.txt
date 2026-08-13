@@ -1,0 +1,17 @@
+NETWORK PACKET SNIFFER LOG
+Started: 2026-08-12 16:05:04
+==================================================
+
+--- Packet Sniffer Session ---
+Started: 2026-08-13 20:00:20.039863
+Packet 1: 192.168.43.134 -> 192.168.43.1 | Protocol: UDP | Source Port: 58273 | Destination Port: 53
+Packet 2: 192.168.43.134 -> 192.168.43.1 | Protocol: UDP | Source Port: 49674 | Destination Port: 53
+Packet 3: 192.168.43.134 -> 192.168.43.1 | Protocol: UDP | Source Port: 63582 | Destination Port: 53
+Packet 4: 192.168.43.1 -> 192.168.43.134 | Protocol: UDP | Source Port: 53 | Destination Port: 58273
+Packet 5: 192.168.43.1 -> 192.168.43.134 | Protocol: UDP | Source Port: 53 | Destination Port: 63582
+Packet 6: 192.168.43.1 -> 192.168.43.134 | Protocol: UDP | Source Port: 53 | Destination Port: 49674
+Packet 7: 192.168.43.134 -> 192.168.43.1 | Protocol: UDP | Source Port: 61828 | Destination Port: 53
+Packet 8: 192.168.43.134 -> 192.168.43.1 | Protocol: UDP | Source Port: 52348 | Destination Port: 53
+Packet 9: 192.168.43.1 -> 192.168.43.134 | Protocol: UDP | Source Port: 53 | Destination Port: 61828
+Packet 10: 192.168.43.134 -> 192.168.43.1 | Protocol: UDP | Source Port: 52348 | Destination Port: 53
+Packet 11: 192.168.43.1 -> 192.168.43.134 | Protocol: UDP | Source Port: 53 | Destination Port: 52348
